@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(January 30, 2017)
+February 2, 2018
 
 ## Student Name:  
-(Julia McLane)
+Julia McLane
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This project explained systems like Version Control System and Git. This project also helped me understand why developers utilize systems like Git and VCS. 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned about Version Control Systems and Git
+2. The difference between a local repository and a remote repository
+3. The main commands for Git and how to use them
 

@@ -11,13 +11,12 @@ body {
 }
 
 .navbar-brand{
-    font-family: 'Kalam', cursive;
-    size: 40px;
-    font-weight: bold;
+    font-family: 'Unica One', cursive;
+    size: 20px;
 }
 
 .nav li{
-    font-family: 'Kalam', cursive;
+    font-family: 'Unica One', cursive;
     size: 10px;
 }
 
@@ -41,12 +40,12 @@ body {
     font-size: 77px;
     color: #fff;
     text-shadow: 2px 2px #000;
-    font-family: 'Kalam', cursive;
+    font-family: 'Unica One', cursive;
 
 }
 
 .headline h3{
-font-family: 'Kalam', cursive;
+font-family: 'Unica One', cursive;
     color: #fff;
     text-shadow: 2px 2px #000;
 }
@@ -69,7 +68,7 @@ font-family: 'Kalam', cursive;
     box-shadow: 0 10px 10px 5px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 20px;
     width: 500px;
-    length:500px;
+    
 }
 
 .featurette-image.pull-right {
@@ -78,16 +77,16 @@ font-family: 'Kalam', cursive;
 
 .featurette-heading  {
     font-size: 40px;
-font-family: 'Kalam', cursive;
+font-family: 'Unica One', cursive;
 
 }
 
 .lead { 
-    font-size: 20px;
+    font-size: 25px;
 font-family: 'Lato', sans-serif;
     margin-top: 20px;
-    letter-spacing: 3px;
-    line-height: 30px
+    letter-spacing: 5px;
+    line-height: 40px
 }
 
 #topic1 {
